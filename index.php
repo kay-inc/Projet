@@ -31,7 +31,7 @@
 			<?php include("includes/header.php"); ?>
 			
 			<?php include("includes/section.php"); ?>
-			<?php include("includes/footer.php"); ?>
+			<?php include("includes/footer.php"); ?><br/>
 		</div>
 
 	</body>
