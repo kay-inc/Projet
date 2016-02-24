@@ -16,8 +16,7 @@
 	<head>
 		<meta charset="UTF-8"/>
 		<link rel="stylesheet" href="includes/style.css" type="text/css" />
-		<title> Ben Aissa Ouadie</title>
-		<!--[if lt IE 9]>
+		<title>BEN AISSA OUADIE</title>		<!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
 	</head>
